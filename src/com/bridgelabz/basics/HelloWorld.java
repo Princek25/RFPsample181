@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Hello Prince");
         System.out.println("How are you");
         System.out.println("branch1 code");
+        System.out.println("branch2 code");
     }
 }
