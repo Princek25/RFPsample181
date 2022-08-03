@@ -7,5 +7,9 @@ public class HelloWorld {
         System.out.println("branch1 code");
         System.out.println("branch2 code");
         System.out.println("branch3 code");
+
+        int a = 5;
+        System.out.println(++a);
+        System.out.println(a);
     }
 }
